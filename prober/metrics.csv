@@ -1,0 +1,6 @@
+filepath,vocabulary,proglen,calcprogLen,volume,difficulty,effort,timeteqprog,timedelbugs,distoprt,distoper,totoprt,totoper,cc,linecount,commentcount,blankcount,linecommentcount
+/root/Halstead-Complexity-Measures/test_datasets/pfaat/GroupComparisonDialog.java,107,319,692.20,2150.53,5.69,12228.49,679.36,0.72,5,102,29,290,6,91,1,23,92
+/root/Halstead-Complexity-Measures/test_datasets/pfaat/HMMERWorker.java,78,183,456.28,1150.23,6.93,7970.60,442.81,0.38,7,71,19,164,10,61,8,18,69
+/root/Halstead-Complexity-Measures/test_datasets/pfaat/FindDialog.java,155,467,1082.35,3397.95,11.13,37816.64,2100.92,1.13,8,147,58,409,21,164,5,29,169
+/root/Halstead-Complexity-Measures/test_datasets/pfaat/RulerAnnotationComponent.java,272,1683,2108.05,13611.20,43.36,590138.93,32785.50,4.54,17,255,301,1382,155,513,12,88,525
+/root/Halstead-Complexity-Measures/test_datasets/pfaat/AlignmentAnnPanel.java,57,147,308.03,857.43,5.04,4320.15,240.01,0.29,5,52,16,131,13,58,6,18,64

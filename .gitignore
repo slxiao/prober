@@ -1,3 +1,10 @@
 dist
 prober.egg-info
 build
+java/.gradle
+.vscode
+*.txt
+.classpath
+.project
+.settings/
+bin/
